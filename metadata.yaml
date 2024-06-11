@@ -1,0 +1,44 @@
+_repo: The-shooting-party_73729
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chamot, A. E.
+    gutenberg_agent_id: '57200'
+    url: http://www.gutenberg.org/2009/agents/57200
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    - Tchekhoff, Anton
+    - Tschechow, Anton
+    - Tchekoff, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anton_Chekhov
+    - https://fi.wikipedia.org/wiki/Anton_T%C5%A1ehov
+description: ''
+gutenberg_issued: '2024-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73729'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006548098
+pgterms:marc905: 20240527160809chekhov
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aLondon :$bStanley Paul & Co. Ltd., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The shooting party
+url: http://www.gutenberg.org/ebooks/73729
