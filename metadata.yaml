@@ -5,6 +5,9 @@ contributor:
     agent_name: Chamot, A. E.
     gutenberg_agent_id: '57200'
     url: http://www.gutenberg.org/2009/agents/57200
+covers:
+- cover_type: archival
+  image_path: 73729-h/images/cover.jpg
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anton_Chekhov
     - https://fi.wikipedia.org/wiki/Anton_T%C5%A1ehov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73729#The-shooting-party
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
